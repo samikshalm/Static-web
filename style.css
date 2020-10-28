@@ -1,0 +1,93 @@
+body
+{
+  background-image: url(fit.jpg);
+  background-size: 100%;
+  background-repeat:no-repeat ;
+  
+}
+ul{
+  list-style-type: none;
+}
+a{
+  font-size: 40px;
+  color :red;
+  text-align:center;
+
+}
+a{
+  font-size: 40px;
+  color: #ffa931;
+  text-align:center;
+
+}
+h3
+{
+  color: #363636;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.icon
+{
+  color: black;
+  padding-bottom: 5px;
+}
+
+.mainHeader
+{
+  font-family: 'Notable',sans-serif;
+  color: #363636;
+  font-size: 50px;
+  display: inline;
+  padding-right: 40%;
+  position: absolute;
+  top:7%;
+}
+.secondHeader
+{
+  font-family: 'Arimo', sans-serif;
+  color: #ffa931;
+  font-size: 25px;
+  padding-right: 30%;
+  position: absolute;
+  top:30%;
+}
+input[type=text] {
+  position: absolute;
+  width: 30%;
+  padding: 12px;
+  border: 1px solid #363636;
+  border-radius: 30px/30px;
+  top: 50%;
+  color:#363636;
+  right: 65%;
+
+
+}
+input[type=password]
+{
+  position: absolute;
+  width: 30%;
+  padding: 12px;
+  border: 1px solid #363636;
+  border-radius: 30px/30px;
+  top: 60%;
+  color:#363636;
+  right:65%;
+}
+
+.button {
+  background-color: #363636;
+  position: absolute;
+  top: 70%;
+  border-width: 0;
+  width: 7%;
+  height: 6.35%;
+  right: 90%;
+  border-radius: 30px/30px;
+  color: white;
+}
+.folloUs
+{
+  position: absolute;
+  top:80%;
+}
